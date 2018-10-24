@@ -13,8 +13,8 @@ This is client/front-end. The back-end/server can be found [here](https://github
 You can run the front-end alone, but none of the functionality will work.
 
 ### Installing
-* Clone this repo: `git clone https://github.com/nikko89/pulsehunt-frontend
-* Move into the folder: `cd pulsehunt-frontend
+* Clone this repo: `git clone https://github.com/nikko89/pulsehunt-frontend`
+* Move into the folder: `cd pulsehunt-frontend`
 * Install all dependencies: `npm install`
 * Start the development environment: `npm start` 
 
