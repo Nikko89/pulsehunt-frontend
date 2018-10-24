@@ -2,7 +2,7 @@
 
 Pulse Hunt is a market place where Indie Trainers can offer their workout sessions to users.
 
-This is client/front-end. The back-end/server can be found [here](https://github.com/Tezenn/pulsehunt-backend).
+This is the client/front-end. The back-end/server can be found [here](https://github.com/Tezenn/pulsehunt-backend).
 
 ## Getting started
 
