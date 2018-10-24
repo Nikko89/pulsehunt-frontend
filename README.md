@@ -1,4 +1,4 @@
-# Pulse Hunt (server/backend)
+# Pulse Hunt (client/frontend)
 
 Pulse Hunt is a market place where Indie Trainers can offer their workout sessions to users.
 
